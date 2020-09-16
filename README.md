@@ -1,10 +1,13 @@
 # Suicide_Analysis
 
 Programming Language:  Python
+
 IDE: Atom
 
 Data Set Information
+
  I have used 5 data set and their information as below:
+ 
 
 Master.csv 
  Link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
